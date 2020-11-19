@@ -1,5 +1,5 @@
-# game-design
-python/cad game design micro meet
+# Game Design
+Python/CAD/ROS Game Design Micro Meet
 
 # Skills
 - linux (command line)
