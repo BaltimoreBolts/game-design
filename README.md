@@ -1,6 +1,9 @@
 # Game Design
 Python/CAD/ROS Game Design Micro Meet
 
+# Information
+The Game Design Challenge will allow registered teams to design their own FIRST Robotics Competition game using real-world, virtual, or hybrid design elements, and compete for judged awards. Winning concepts will be considered for use in future official games. 
+
 # Skills
 - linux (command line)
 - git
