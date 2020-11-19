@@ -19,6 +19,12 @@ Python/CAD/ROS Game Design Micro Meet
 - Gazebo : Simulated reality viewer
 - RViz : Robot's sensors and perspective data
 
+# Initial Installation
+- ROS
+    - [ROS INSTALL LINK](http://wiki.ros.org/ROS/Installation)
+- Gazebo
+    - `sudo apt install gazebo`
+
 # Commands
 ### Building
 - Use the catkin build system to "build" the programs
